@@ -1,0 +1,4 @@
+{
+  "version": "1.8.15",
+  "notes": "Ajoute une version web installable (PWA) publiée sur GitHub Pages, pour utiliser GestHôte sur iPhone (Safari → Partager → Sur l'écran d'accueil) sans passer par l'App Store."
+}
